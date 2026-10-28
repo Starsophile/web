@@ -2,7 +2,7 @@ import { Icons } from "@/components/icons";
 import { House, Library } from "lucide-react";
 
 export const DATA = {
-  name: "Rishi Parmar — Smartphone Market Research",
+  name: "Rishi Parmar - Smartphone Market Research",
   initials: "RP",
   url: "https://your-domain.com",
   location: "Vadodara, Gujarat, India",
@@ -67,7 +67,7 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "mailto:YOUR_EMAIL_HERE",
+        url: "mailto:01rishiparmar@gmail.com",
         icon: Icons.email,
         navbar: false,
       },
